@@ -37,7 +37,7 @@ Here's a preview of the product dashboards:
 
 				 Add/List of Product
 
- ![Dashboard UI](assests/addProduct.png)  ![Dashboard UI](assests/listOfProduct.png)
+ ![Dashboard UI](assests/addProduct.png)  ![Dashboard UI](assests/listOfProducts.png)
 
 
 ## ⚙️ Setup Instructions
