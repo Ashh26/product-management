@@ -31,9 +31,9 @@ A full-featured **Spring MVC** web application for managing products using **Hib
 ## 📸 Screenshots
 Here's a preview of the product dashboards:
 
-				DashBoard/edit/delete Product
+				add/DashBoard/delete Product
 					
- ![Dashboard UI](assests/addProduct.png)   ![Dashboard UI](assets/editProduct.png)  ![Dashboard UI](assets/deletProduct.png)
+ ![Dashboard UI](assests/addProduct.png)   ![Dashboard UI](assets/dashboard.png)  ![Dashboard UI](assets/deletProduct.png)
 
 				 Add/List of Product
 
