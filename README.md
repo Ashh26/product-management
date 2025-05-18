@@ -33,15 +33,29 @@ Here's a preview of the product dashboards:
 
 				add/DashBoard/delete Product
 					
- ![Dashboard UI](assests/addProduct.png)   ![Dashboard UI](assests/dashboard.png)  ![Dashboard UI](assests/deletProduct.png)
-
-				 Add/List of Product
-
- ![Dashboard UI](assests/addProduct.png)  ![Dashboard UI](assests/listOfProducts.png)
-
-<p>
+ <p>
   <img src="assests/dashboard.png" alt="Dashboard Screenshot" width="500"/>
 </p>
+ 
+ <p>
+  <img src="assests/addProduct" alt="Dashboard Screenshot" width="500"/>
+</p>  
+
+<p>
+  <img src="assests/deletProduct" alt="Dashboard Screenshot" width="500"/>
+</p>
+
+				 Edit/List of Product
+
+<p>
+  <img src="assests/editProduct" alt="Dashboard Screenshot" width="500"/>
+</p>
+
+ <p>
+  <img src="assests/listOfProducts.png" alt="Dashboard Screenshot" width="500"/>
+</p>
+
+
 
 
 ## ⚙️ Setup Instructions
