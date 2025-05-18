@@ -1,36 +1,21 @@
+MIT License
 
----
+Copyright (c) 2025 [Yasif khan]
 
-### ✅ LinkedIn Post (Professional and Eye-catching)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Product-management"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Here’s a LinkedIn post you can publish:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
----
-
-> 🚀 **Just Completed a Spring MVC Web App!**
-> 
-> I recently built a full-stack **Product Management Web Application** using:
-> 
-> ✅ Spring MVC (Java-based config, no XML)  
-> ✅ Hibernate ORM with MySQL  
-> ✅ JSP with JSTL + Bootstrap for UI  
-> ✅ Pagination, Search/Filter, Toast Notifications  
-> ✅ Modal Confirmation for Delete Actions  
-> 
-> This project gave me hands-on experience in:
-> - Clean architecture with DAO + Service layers  
-> - Handling real-world features like pagination, filtering, and UX modals  
-> - Structuring scalable Java EE projects  
-> 
-> 📸 I’ve included screenshots and a detailed README on GitHub.  
-> 🔗 [Insert GitHub link here]
-> 
-> I'm excited to build more Java-based applications and open to collaborations, feedback, and opportunities!
-> 
-> #Java #SpringMVC #Hibernate #MySQL #WebDevelopment #SoftwareEngineering #OpenToWork
-
----
-
-Would you like me to generate a **GitHub README file** and help you push this to GitHub as well?
-
-Let me know if you'd like the README or LinkedIn post customized with your **name, LinkedIn, GitHub**, or any project screenshots.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
