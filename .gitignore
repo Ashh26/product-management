@@ -1,0 +1,43 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ (if used)
+.idea/
+*.iml
+*.iws
+out/
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Builds
+build/
+
+# Local config
+.env
+*.local
+
+# Java
+*.class
+
+# Others
+*.war
+*.jar
