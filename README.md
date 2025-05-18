@@ -38,17 +38,17 @@ Here's a preview of the product dashboards:
 </p>
  
  <p>
-  <img src="assests/addProduct" alt="Dashboard Screenshot" width="500"/>
+  <img src="assests/addProduct.png" alt="Dashboard Screenshot" width="500"/>
 </p>  
 
 <p>
-  <img src="assests/deletProduct" alt="Dashboard Screenshot" width="500"/>
+  <img src="assests/deletProduct.png" alt="Dashboard Screenshot" width="500"/>
 </p>
 
 				 Edit/List of Product
 
 <p>
-  <img src="assests/editProduct" alt="Dashboard Screenshot" width="500"/>
+  <img src="assests/editProduct.png" alt="Dashboard Screenshot" width="500"/>
 </p>
 
  <p>
