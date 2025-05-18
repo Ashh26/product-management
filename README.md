@@ -39,6 +39,10 @@ Here's a preview of the product dashboards:
 
  ![Dashboard UI](assests/addProduct.png)  ![Dashboard UI](assests/listOfProducts.png)
 
+<p>
+  <img src="assests/dashboard.png" alt="Dashboard Screenshot" width="700"/>
+</p>
+
 
 ## ⚙️ Setup Instructions
 
