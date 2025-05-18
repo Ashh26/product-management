@@ -33,11 +33,11 @@ Here's a preview of the product dashboards:
 
 				add/DashBoard/delete Product
 					
- ![Dashboard UI](assests/addProduct.png)   ![Dashboard UI](assets/dashboard.png)  ![Dashboard UI](assets/deletProduct.png)
+ ![Dashboard UI](assests/addProduct.png)   ![Dashboard UI](assests/dashboard.png)  ![Dashboard UI](assests/deletProduct.png)
 
 				 Add/List of Product
 
- ![Dashboard UI](assets/addProduct.png)  ![Dashboard UI](assets/listOfProduct.png)
+ ![Dashboard UI](assests/addProduct.png)  ![Dashboard UI](assests/listOfProduct.png)
 
 
 ## ⚙️ Setup Instructions
