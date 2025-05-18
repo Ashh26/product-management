@@ -29,14 +29,19 @@ A full-featured **Spring MVC** web application for managing products using **Hib
 ---
 
 ## 📸 Screenshots
-Here's a preview of the product dashboard:
+Here's a preview of the product dashboards:
 
-![Dashboard UI](assets/dashboard.png)
+				DashBoard/edit/delete Product
+					
+ ![Dashboard UI](assets/dashboard.png)   ![Dashboard UI](assets/editProduct.png)  ![Dashboard UI](assets/deletProduct.png)
 
+				 Add/List of Product
+
+ ![Dashboard UI](assets/addProduct.png)  ![Dashboard UI](assets/listOfProduct.png)
 
 
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/your-username/product-management-app.git
+   git clone https://github.com/Ashh26/product-management.git
